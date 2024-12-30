@@ -1,0 +1,23 @@
+{
+  "name": "amuha",
+  "version": "1.0.0",
+  "description": "amuha project create Rupiah Format",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambimuhammad/amuha.git"
+  },
+  "keywords": [
+    "Rupiah",
+    "Format"
+  ],
+  "author": "Amuha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ambimuhammad/amuha/issues"
+  },
+  "homepage": "https://github.com/ambimuhammad/amuha#readme"
+}
