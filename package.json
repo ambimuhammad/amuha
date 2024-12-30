@@ -1,5 +1,5 @@
 {
-  "name": "amuha",
+  "name": "amuh-rupiah",
   "version": "1.0.0",
   "description": "amuha project create Rupiah Format",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ambimuhammad/amuha"
+    "url": "git+https://github.com/ambimuhammad/amuha.git"
   },
   "keywords": [
     "Rupiah",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ambimuhammad/amuha/issues"
   },
-  "homepage": "https://github.com/ambimuhammad/amuha"
+  "homepage": "https://github.com/ambimuhammad/amuha",
+  "directories": {
+    "test": "test"
+  }
 }
